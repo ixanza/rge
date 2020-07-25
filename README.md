@@ -17,6 +17,7 @@
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Install Reshade](#install-reshade)
     - [Copy Game Folder Files](#copy-game-folder-files)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
@@ -139,6 +140,13 @@ This can happen when I update the modlist. Check if a new update is available an
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ## Post-Installation
+
+### Install Reshade
+
+If you plan to use the default ENB included with this folder, follow these instructions for installing Reshade and the needed things from it.
+
+"Download the latest [Reshade](https://reshade.me/) and follow the instructions to install. Be sure to select SkyrimSE.exe and select dx10/11 as the option. When asked what shaders to install just tick every box as I use a number from different sources and this will ensure you don't miss any. On the final page " Legacy shaders' individually tick every box as I use a number of them!"
+Taken from Nyclix's ENB-Reshade Nexus page. 
 
 ### Copy Game Folder Files
 
