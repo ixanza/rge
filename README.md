@@ -107,7 +107,7 @@ Start the game and exit once you're in the main menu.
 
 ### Preparations
 
-Let's get to the actual installation. Grab the latest release of RGE from [the release tab](https://github.com/jdsmith2816/rge/releases).
+Let's get to the actual installation. Grab the latest release of RGE from the Browse Modlists page in the Wabbajack app.
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder (the _working folder_) near the root level of your drive like `C:/Wabbajack`.
 
