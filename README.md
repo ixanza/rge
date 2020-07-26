@@ -22,7 +22,6 @@
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Combat - Melee](#combat---melee)
-  - [Combat - Archery](#combat---archery)
   - [Combat - Magic](#combat---magic)
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Quest and Encounter Mods](#quest-and-encounter-mods)
@@ -176,9 +175,6 @@ We use The Ultimate Dodge Mod for all of our fancy dodging needs as the first pe
 
 A heavily modified version of [Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) handles NPC AI, some new combat mechanics and a curated set of new monsters.
 
-## Combat - Archery
-
-Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Archery Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/13782)
 
 ## Combat - Magic
 
@@ -404,6 +400,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Frenchy - Thanks for the great work on the Linkle preset!
 - Forgotten God and Frenchy - Thanks for the great work on the logo and main menu replacer!!
+- Cal - For providing his Collision Optimization mod to help fix performance issues when looking at specific objects.
 
 # Contact
 
